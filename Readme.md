@@ -30,11 +30,9 @@
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaakash-198&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.vercel.app/?user=sharmaakash-198&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaakash-198&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sharmaakash-198&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=sharmaakash-198&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sharmaakash-198&layout=compact&theme=tokyonight)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sharmaakash-198&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaakash-198" />
