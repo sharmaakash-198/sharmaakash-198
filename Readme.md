@@ -1,4 +1,4 @@
-v# <h1 align="center">Hello, I'm Akash Sharma<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
+# <h1 align="center">Hello, I'm Akash Sharma<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 <img align="right" src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" width="200px" alt="Since the media didn't load, just imagine me typing in a frenzy">
 
 ## About Me
