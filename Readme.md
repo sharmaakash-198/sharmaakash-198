@@ -25,7 +25,6 @@
 ![VHDL](https://img.shields.io/badge/VHDL-1a1a1a?logo=vdl&logoColor=white)
 ![Xilinx ISE Suite](https://img.shields.io/badge/Xilinx_ISE-b20838?logo=AMD&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-1a1a1a?logo=modelsim&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-96D9D9?logo=Arduino&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?logo=mathlab&logoColor=white)
 
 
