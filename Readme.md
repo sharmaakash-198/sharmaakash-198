@@ -2,12 +2,12 @@
 <img align="right" src="https://media.giphy.com/media/ZchkBcB4zKiuG4Y22I/giphy.gif" width="200px" alt="Since the media didn't load, just imagine me typing in a frenzy">
 
 ## About Me
-🎓 I am currently a student of NIT, Kurukshetra</br>
-👨‍💻 I like to learn new things pretty much everyday</br>
-💜 I am particulaly interested in building cool things using AI/</br>
-<strong>😉 Having something in mind, Let's collaborate 🤝</br></strong>
+🎓 I am currently a student at NIT Kurukshetra</br>
+👨‍💻 I like learning new things pretty much every day</br>
+💡 I am particularly interested in building cool things using AI</br>
+<strong>😉 If you have something in mind, let's collaborate 🤝</br></strong>
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -25,20 +25,22 @@
 ![VHDL](https://img.shields.io/badge/VHDL-1a1a1a?logo=vdl&logoColor=white)
 ![Xilinx ISE Suite](https://img.shields.io/badge/Xilinx_ISE-b20838?logo=AMD&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-1a1a1a?logo=modelsim&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-96D9D9?logo=Arduino&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-0076A8?logo=mathlab&logoColor=white)
 
+## My GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharmaakash-198&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
-<br><strong>📊 My Github Stats :</strong><br><br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmaakash-198&show_icons=true&count_private=true&include_all_commits=true&theme=radical)<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaakash-198&theme=radical&hide_border=true"/><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaakash-198&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmaakash-198&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaakash-198" /> </p>
+![GitHub Streak](https://streak-stats.vercel.app/?user=sharmaakash-198&theme=radical&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmaakash-198&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sharmaakash-198&label=Profile%20views&color=0e75b6&style=flat" alt="sharmaakash-198" />
+</p>
 
-## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+## Connect with me<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsmeakashsharma)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/sharmaakash-198)
 [![Instagram](https://img.shields.io/badge/Instagram-Red?logo=Instagram&logoColor=white)](https://www.instagram.com/_akash.011)
